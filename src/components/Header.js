@@ -30,11 +30,10 @@ const Header = () => {
    <div className="main">
     <h1> Get Start With</h1>
     <h1>Your Favorite Shopping</h1>
-    <button className='btn btn-dark shopnow' onClick={()=>{navigate("/cart")}}>BUY NOW </button>
+    <button className='btn btn-dark shopnow' onClick={()=>{navigate("/")}}>BUY NOW </button>
    </div>
 
     <div className="wrapper">
-       <img src="/images/background.jpg" alt="" />
 
          <div className="container">
         
