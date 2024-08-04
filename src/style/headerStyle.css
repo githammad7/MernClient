@@ -16,6 +16,8 @@ border: none !important;
 
 .wrapper {
     /* background-image:   url('../images/background.jpg') ; */
+                   background-color:rgba(0, 145, 198, 1);
+
 object-fit: cover;
 object-position: top;
     position: relative;
