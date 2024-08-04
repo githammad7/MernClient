@@ -40,7 +40,8 @@ useEffect(()=>{
     <>
     <Layout>
         <div className="register">
-    
+            <div className="container">
+
         
     <form onSubmit={handleEvent} className='mt-4'>
     <h1 className='text-center'>Register Page</h1> 
@@ -80,7 +81,8 @@ useEffect(()=>{
 </form>
 
             
-      
+            </div>
+
       </div>
      
       </Layout>
