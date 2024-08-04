@@ -40,7 +40,8 @@ const ForgetPassword = () => {
       <Layout>
         <div className="register">
     
-      
+              <div className="container">
+
     <form onSubmit={handleEvent}>
     
     <h1 className='text-center'>RESET PASSWORD</h1>  
@@ -63,7 +64,8 @@ const ForgetPassword = () => {
 </form>
 
             
-      
+            </div>
+
       </div>
      
       </Layout>
