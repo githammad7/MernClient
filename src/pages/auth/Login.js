@@ -46,9 +46,10 @@ const Login = () => {
   return (
     <>
       <Layout>
+      <div className="container">
         <div className="register">
     
-         <div className="container">
+         
 
 
     <form onSubmit={handleEvent}>
