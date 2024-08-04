@@ -48,7 +48,9 @@ const Login = () => {
       <Layout>
         <div className="register">
     
-      
+         <div className="container">
+
+
     <form onSubmit={handleEvent}>
     
     <h1 className='text-center '>Login Page</h1>  
@@ -67,7 +69,8 @@ const Login = () => {
 </form>
 
             
-      
+          </div>
+  
       </div>
      
       </Layout>
