@@ -64,13 +64,12 @@ object-position: top;
        font-size: 0.3rem;
     }
     .wrapper img{
-       display:none;
+               background-color:rgba(0, 145, 198, 1);
+
         
     
     }
-    .wrapper{
-        background-color:rgba(0, 145, 198, 1);
-    }
+   
     
 }
 .main{
