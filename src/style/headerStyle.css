@@ -17,7 +17,7 @@ border: none !important;
 .wrapper img {
     /* background-image:   url('../images/background.jpg') ; */
 object-fit: cover;
-object-position: top;
+object-position: 50% 50%;
     position: relative;
     width: 100%;
     height: 600px;
