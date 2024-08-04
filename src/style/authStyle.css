@@ -1,0 +1,44 @@
+.register{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-transform: uppercase;
+    background-color: whitesmoke;
+    min-height: 100vh;
+   background-image: linear-gradient( rgba(0, 145, 198, 1) 0% , rgba(0,0,0,1) 100%);
+   border-top: 5px solid black;
+    
+   }
+   .register h1{
+    font-weight: bolder;
+   color: whitesmoke;
+
+   }
+   .register form{
+    background-color: transparent;
+    width: 400px;
+    padding: 20px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+    z-index: 99999;
+   }
+   .register form label{
+    color: whitesmoke;
+   }
+   .register form input{
+    background-color: transparent;
+
+    border: none;
+    border-bottom: 2px solid whitesmoke;
+    border-radius: 0;
+   }
+   .register form input:hover{
+    background-color: transparent;
+
+   }
+   .register form .btn {
+    width: 100%;
+    background-color: whitesmoke;
+    color: black;
+   }
