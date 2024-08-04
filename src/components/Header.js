@@ -34,7 +34,6 @@ const Header = () => {
    </div>
 
     <div className="wrapper">
-     // <img src="/images/background.jpg" alt="" />
          <div className="container">
         
      <nav className="navbar navbar-expand-lg navbar-dark bg-dark  navbars" >
