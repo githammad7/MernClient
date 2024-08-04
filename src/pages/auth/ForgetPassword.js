@@ -41,7 +41,8 @@ const ForgetPassword = () => {
         <div className="register">
     
               <div className="container">
-
+      <div className="row">
+      <div className="col-10">
     <form onSubmit={handleEvent}>
     
     <h1 className='text-center'>RESET PASSWORD</h1>  
@@ -62,8 +63,8 @@ const ForgetPassword = () => {
   </div>
   <button type="submit" className="btn btn-dark mb-4">RESET</button> <br/>
 </form>
-
-            
+        </div>
+        </div>  
             </div>
 
       </div>
