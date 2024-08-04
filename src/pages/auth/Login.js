@@ -46,7 +46,7 @@ const Login = () => {
   return (
     <>
       <Layout>
-      <div className="container-fluid">
+      <div className="container">
         <div className="register">
     
          
@@ -71,8 +71,8 @@ const Login = () => {
 
             
           </div>
-  
-      </div>
+            </div>
+
      
       </Layout>
     </>
