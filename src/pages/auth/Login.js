@@ -46,7 +46,7 @@ const Login = () => {
   return (
     <>
       <Layout>
-      <div className="container">
+      <div className="container-fluid">
         <div className="register">
     
          
